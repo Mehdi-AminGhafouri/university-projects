@@ -1,4 +1,4 @@
-Most of project i have done at university 
+Most of the project I have done at university
 ====================================
 A simple decision tree Python code to display and export pdf version of the decision tree.
 
