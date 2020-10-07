@@ -4,7 +4,7 @@ Most of the project I have done at experiment
 
 Usage:
 ------
-you can use this codes for experimenting and learn more or use some part of the code in your project
+you can use these codes for experimenting and learn more or use some part of the code in your project
 
 
 
