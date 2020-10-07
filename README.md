@@ -1,21 +1,12 @@
-Most of the project I have done at university
+Most of the project I have done at experiment
 ====================================
 
 
 Usage:
 ------
-use this project as understanding samples
+you can use this codes for experimenting and learn more or use some part of the code in your project
 
 
-Help
-------------
-remember 3 tip
-
-first: do not copy this code as your homework
-
-second: understand the main structure of the code and write your own version from zero
-
-third: learn more and be successful
 
 
 Authors:
