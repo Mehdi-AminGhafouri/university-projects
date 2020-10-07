@@ -1,22 +1,22 @@
-Simple decision tree Python code + PDF output
+Most of project i have done at university 
 ====================================
 A simple decision tree Python code to display and export pdf version of the decision tree.
 
 
 Usage:
 ------
-run the DTree.py code :)
+use this project as understanding samples
 
 
 Help
 ------------
 remember 3 tip
 
-first: if you want to use your data in DTree make a CSV of them
+first: do not copy this code as your homework
 
-second: edit the name of columns
+second: understand the main structure of the code and write your own version from zero
 
-third: the columns you enter as features should be the same type (numeric)
+third: learn more and be successful
 
 
 Authors:
